@@ -24,7 +24,7 @@ pip install hyperopt
 
 In order to get access to the OpenAI API, we need to sign up to the OpenAI platform and create private API keys as explained [here](https://platform.openai.com/docs/api-reference/authentication).
 The API keys can be created after we are logged in by visiting https://platform.openai.com/account/api-keys.
-I saved the key in a file named .env as OPENAI_API_KEY="secret key".
+I saved the key in a file named .env as OPENAI_API_KEY="secret key". We have a limit of 3 requests/min
 
 
 
